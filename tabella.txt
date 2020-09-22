@@ -1,0 +1,23 @@
+
+
+ID		Numero incrementale	PRIMARY_KEY	 AUTO_INCREMENT, UNIQUE 
+
+Marca		Stringa			VARCHAR(20)	 NOT NULL
+
+Modello		Stringa			VARCHAR(20)	 NOT NULL
+
+Prezzo		Numero			FLOAT(9,2)       NOT NULL
+
+Anno		Date			DATE             NOT NULL				
+
+Condizione 	Stringa			VARCHAR(15)      NULL
+
+Chilometraggio	Numero			SMALL      	 NOT NULL
+
+Alimentazione	Stringa			VARCHAR(15)      NOT NULL
+
+Cambio		Stringa			VARCHAR(10)      NULL
+
+
+
+
